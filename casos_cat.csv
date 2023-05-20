@@ -1,0 +1,947 @@
+comarcadescripcio,data,districtedescripcio,resultatcoviddescripcio,sexedescripcio,numcasos
+ALT CAMP,2021-04-13T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT CAMP,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+ALT CAMP,2021-12-23T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT CAMP,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Dona,1
+ALT CAMP,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,11
+ALT CAMP,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT EMPORDA,2020-05-04T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ALT EMPORDA,2020-05-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+ALT EMPORDA,2020-05-22T00:00:00.000,No classificat,PCR probable,Home,1
+ALT EMPORDA,2020-07-22T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ALT EMPORDA,2020-07-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+ALT EMPORDA,2021-02-05T00:00:00.000,No classificat,Positiu TAR,Home,2
+ALT EMPORDA,2021-04-15T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT EMPORDA,2021-04-15T00:00:00.000,No classificat,Positiu PCR,Home,1
+ALT EMPORDA,2021-04-20T00:00:00.000,No classificat,Positiu PCR,Home,2
+ALT EMPORDA,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT EMPORDA,2021-04-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ALT EMPORDA,2021-07-27T00:00:00.000,No classificat,Positiu TAR,Dona,13
+ALT EMPORDA,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Dona,11
+ALT EMPORDA,2021-12-21T00:00:00.000,No classificat,Positiu PCR,Home,2
+ALT EMPORDA,2021-12-24T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT EMPORDA,2022-01-10T00:00:00.000,No classificat,Positiu PCR,Home,3
+ALT EMPORDA,2022-01-10T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT EMPORDA,2022-01-15T00:00:00.000,No classificat,Positiu TAR,Dona,11
+ALT EMPORDA,2022-01-15T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT EMPORDA,2022-01-28T00:00:00.000,No classificat,Positiu TAR,Home,50
+ALT EMPORDA,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Dona,1
+ALT EMPORDA,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT EMPORDA,2022-07-04T00:00:00.000,No classificat,Positiu PCR,Dona,2
+ALT EMPORDA,2022-07-08T00:00:00.000,No classificat,Positiu PCR,Home,2
+ALT EMPORDA,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT PENEDES,2020-04-10T00:00:00.000,No classificat,Positiu PCR,Dona,21
+ALT PENEDES,2020-06-17T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+ALT PENEDES,2020-07-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ALT PENEDES,2020-10-02T00:00:00.000,No classificat,Positiu PCR,Home,2
+ALT PENEDES,2020-12-11T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT PENEDES,2020-12-15T00:00:00.000,No classificat,PCR probable,Home,1
+ALT PENEDES,2021-02-02T00:00:00.000,No classificat,PCR probable,Dona,1
+ALT PENEDES,2021-02-03T00:00:00.000,No classificat,Positiu TAR,Dona,7
+ALT PENEDES,2021-03-04T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT PENEDES,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+ALT PENEDES,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT PENEDES,2021-07-22T00:00:00.000,No classificat,Positiu PCR,Dona,5
+ALT PENEDES,2021-08-02T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ALT PENEDES,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Home,5
+ALT PENEDES,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Home,3
+ALT PENEDES,2022-01-13T00:00:00.000,No classificat,Positiu PCR,Home,1
+ALT PENEDES,2022-01-21T00:00:00.000,No classificat,Positiu TAR,Dona,69
+ALT PENEDES,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Home,1
+ALT PENEDES,2022-02-01T00:00:00.000,No classificat,Positiu TAR,Dona,1
+ALT PENEDES,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT PENEDES,2022-07-07T00:00:00.000,No classificat,Positiu TAR,Dona,5
+ALT URGELL,2021-08-02T00:00:00.000,No classificat,Positiu TAR,Dona,3
+ALT URGELL,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Home,1
+ALT URGELL,2021-12-24T00:00:00.000,No classificat,Positiu TAR,Home,2
+ALT URGELL,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Dona,1
+ALTA RIBAGORÇA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,2
+ANOIA,2020-05-06T00:00:00.000,No classificat,Positiu per ELISA,Dona,13
+ANOIA,2020-06-01T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+ANOIA,2020-06-14T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+ANOIA,2020-07-14T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+ANOIA,2020-07-15T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,3
+ANOIA,2020-07-17T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ANOIA,2020-07-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+ANOIA,2020-07-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+ANOIA,2020-07-27T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,5
+ANOIA,2020-08-03T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ANOIA,2020-08-19T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+ANOIA,2020-09-10T00:00:00.000,No classificat,PCR probable,Dona,1
+ANOIA,2020-09-30T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ANOIA,2020-10-03T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+ANOIA,2020-10-06T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+ANOIA,2020-10-13T00:00:00.000,No classificat,PCR probable,Dona,1
+ANOIA,2020-10-13T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+ANOIA,2020-10-24T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+ANOIA,2020-10-30T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,3
+ANOIA,2020-11-05T00:00:00.000,No classificat,PCR probable,Home,1
+ANOIA,2020-11-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+ANOIA,2020-12-28T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+ANOIA,2021-01-13T00:00:00.000,No classificat,PCR probable,Home,1
+ANOIA,2021-01-23T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+ANOIA,2021-02-02T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+ANOIA,2021-03-11T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+ANOIA,2021-04-26T00:00:00.000,No classificat,Positiu PCR,Dona,6
+ANOIA,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,2
+ANOIA,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,21
+ANOIA,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,1
+ANOIA,2021-07-01T00:00:00.000,No classificat,Positiu TAR,Home,4
+ANOIA,2021-08-02T00:00:00.000,No classificat,Positiu PCR,Home,2
+ANOIA,2021-08-03T00:00:00.000,No classificat,Positiu PCR,Dona,3
+ANOIA,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Dona,1
+ANOIA,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Home,2
+ANOIA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,2
+ANOIA,2022-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,6
+ANOIA,2022-07-02T00:00:00.000,No classificat,Positiu TAR,Dona,4
+ANOIA,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Dona,6
+ANOIA,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Dona,2
+ANOIA,2022-07-11T00:00:00.000,No classificat,Positiu TAR,Home,1
+BAGES,2020-03-31T00:00:00.000,No classificat,Epidemiològic,Home,1
+BAGES,2020-04-07T00:00:00.000,No classificat,Epidemiològic,Dona,1
+BAGES,2020-04-07T00:00:00.000,No classificat,Epidemiològic,Home,1
+BAGES,2020-05-04T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAGES,2020-05-12T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAGES,2020-05-21T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAGES,2020-05-29T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAGES,2020-06-05T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAGES,2020-06-12T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAGES,2020-06-15T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAGES,2020-07-15T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+BAGES,2020-07-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,3
+BAGES,2020-07-31T00:00:00.000,No classificat,Positiu per ELISA,Dona,2
+BAGES,2020-08-10T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAGES,2020-09-23T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAGES,2020-09-30T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAGES,2020-12-11T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAGES,2020-12-28T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAGES,2021-06-22T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAGES,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,2
+BAGES,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAGES,2021-12-23T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAGES,2022-02-02T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAGES,2022-06-28T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAGES,2022-07-04T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAGES,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,2
+BAGES,2022-07-06T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAGES,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Home,2
+BAIX CAMP,2020-04-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAIX CAMP,2020-04-24T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX CAMP,2020-07-21T00:00:00.000,No classificat,Positiu per ELISA,Dona,2
+BAIX CAMP,2020-07-27T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAIX CAMP,2020-08-13T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX CAMP,2020-09-01T00:00:00.000,No classificat,Positiu per ELISA,Dona,5
+BAIX CAMP,2020-10-23T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX CAMP,2020-11-06T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX CAMP,2020-11-12T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX CAMP,2020-11-12T00:00:00.000,No classificat,Positiu TAR,Home,8
+BAIX CAMP,2020-12-02T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX CAMP,2021-01-06T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX CAMP,2021-01-12T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX CAMP,2021-02-01T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX CAMP,2021-06-25T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX CAMP,2021-07-09T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX CAMP,2021-08-07T00:00:00.000,No classificat,Positiu PCR,Dona,2
+BAIX CAMP,2021-08-18T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX CAMP,2022-02-01T00:00:00.000,No classificat,Positiu TAR,Home,1
+BAIX CAMP,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX CAMP,2022-03-13T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX CAMP,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,12
+BAIX CAMP,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,2
+BAIX CAMP,2022-07-07T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX CAMP,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Home,2
+BAIX EBRE,2020-04-01T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX EBRE,2020-07-16T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX EBRE,2020-11-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX EBRE,2020-11-14T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX EBRE,2021-04-17T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX EBRE,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Dona,2
+BAIX EBRE,2022-01-11T00:00:00.000,No classificat,Positiu TAR,Dona,12
+BAIX EBRE,2022-03-10T00:00:00.000,No classificat,Positiu TAR,Dona,2
+BAIX EBRE,2022-03-12T00:00:00.000,No classificat,Positiu PCR,Dona,2
+BAIX EBRE,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,11
+BAIX EBRE,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX EBRE,2022-07-08T00:00:00.000,No classificat,Positiu PCR,Dona,2
+BAIX EBRE,2022-07-11T00:00:00.000,No classificat,Positiu TAR,Home,1
+BAIX EMPORDA,2020-03-28T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX EMPORDA,2020-05-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAIX EMPORDA,2020-06-12T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX EMPORDA,2020-10-08T00:00:00.000,No classificat,Positiu PCR,Home,4
+BAIX EMPORDA,2020-11-10T00:00:00.000,No classificat,Positiu TAR,Home,3
+BAIX EMPORDA,2020-12-14T00:00:00.000,No classificat,Epidemiològic,Home,1
+BAIX EMPORDA,2021-04-20T00:00:00.000,No classificat,Positiu PCR,Dona,2
+BAIX EMPORDA,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX EMPORDA,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,1
+BAIX EMPORDA,2021-07-15T00:00:00.000,No classificat,Positiu TAR,Home,7
+BAIX EMPORDA,2021-12-23T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX EMPORDA,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Home,2
+BAIX EMPORDA,2022-03-11T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX EMPORDA,2022-03-13T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX EMPORDA,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Home,1
+BAIX EMPORDA,2022-07-07T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX LLOBREGAT,2020-03-25T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-03-27T00:00:00.000,No classificat,Epidemiològic,Dona,1
+BAIX LLOBREGAT,2020-03-29T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-04-02T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-04-09T00:00:00.000,No classificat,Epidemiològic,Home,1
+BAIX LLOBREGAT,2020-04-09T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2020-04-16T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-04-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAIX LLOBREGAT,2020-05-02T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-05-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAIX LLOBREGAT,2020-05-06T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-05-07T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-05-08T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,3
+BAIX LLOBREGAT,2020-05-12T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-05-13T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-05-15T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-05-18T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-05-20T00:00:00.000,No classificat,Positiu per ELISA,Dona,2
+BAIX LLOBREGAT,2020-05-24T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-05-29T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-05-31T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-06-10T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-06-13T00:00:00.000,No classificat,Positiu per ELISA,Home,2
+BAIX LLOBREGAT,2020-06-14T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-07-14T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,10
+BAIX LLOBREGAT,2020-07-15T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-07-17T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,45
+BAIX LLOBREGAT,2020-07-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,5
+BAIX LLOBREGAT,2020-07-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-07-22T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-07-23T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-07-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+BAIX LLOBREGAT,2020-07-25T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-07-27T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-07-27T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-07-30T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2020-07-31T00:00:00.000,No classificat,Positiu per ELISA,Dona,2
+BAIX LLOBREGAT,2020-08-02T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-08-03T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-08-03T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+BAIX LLOBREGAT,2020-08-13T00:00:00.000,No classificat,Epidemiològic,Home,1
+BAIX LLOBREGAT,2020-08-14T00:00:00.000,No classificat,Positiu per ELISA,Home,2
+BAIX LLOBREGAT,2020-08-17T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-08-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-08-25T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+BAIX LLOBREGAT,2020-08-27T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-09-10T00:00:00.000,No classificat,Positiu per ELISA,Dona,2
+BAIX LLOBREGAT,2020-09-16T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-09-17T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-09-20T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-09-22T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-09-23T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-09-27T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-09-28T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-09-28T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+BAIX LLOBREGAT,2020-10-01T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-10-01T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX LLOBREGAT,2020-10-08T00:00:00.000,No classificat,Positiu PCR,Home,4
+BAIX LLOBREGAT,2020-10-09T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2020-10-25T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-10-28T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2020-10-28T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAIX LLOBREGAT,2020-10-30T00:00:00.000,No classificat,PCR probable,Dona,1
+BAIX LLOBREGAT,2020-11-01T00:00:00.000,No classificat,Positiu per ELISA,Home,11
+BAIX LLOBREGAT,2020-11-02T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2020-11-05T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX LLOBREGAT,2020-11-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BAIX LLOBREGAT,2020-11-08T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2020-11-17T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-12-02T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2020-12-05T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-12-15T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-12-17T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2020-12-19T00:00:00.000,No classificat,Positiu per ELISA,Dona,22
+BAIX LLOBREGAT,2021-01-10T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2021-01-27T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX LLOBREGAT,2021-04-18T00:00:00.000,No classificat,Positiu PCR,Home,2
+BAIX LLOBREGAT,2021-04-19T00:00:00.000,No classificat,Positiu PCR,Home,3
+BAIX LLOBREGAT,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX LLOBREGAT,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Dona,2
+BAIX LLOBREGAT,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Home,1
+BAIX LLOBREGAT,2021-06-27T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX LLOBREGAT,2021-06-28T00:00:00.000,No classificat,Positiu TAR,Home,2
+BAIX LLOBREGAT,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Dona,4
+BAIX LLOBREGAT,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,4
+BAIX LLOBREGAT,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX LLOBREGAT,2021-07-23T00:00:00.000,No classificat,Positiu TAR,Home,15
+BAIX LLOBREGAT,2021-08-20T00:00:00.000,No classificat,Positiu TAR,Home,3
+BAIX LLOBREGAT,2021-08-30T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX LLOBREGAT,2021-10-17T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX LLOBREGAT,2021-12-31T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BAIX LLOBREGAT,2022-01-11T00:00:00.000,No classificat,Positiu TAR,Dona,18
+BAIX LLOBREGAT,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Dona,7
+BAIX LLOBREGAT,2022-01-22T00:00:00.000,No classificat,Positiu TAR,Home,15
+BAIX LLOBREGAT,2022-01-31T00:00:00.000,No classificat,Positiu TAR,Dona,67
+BAIX LLOBREGAT,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Dona,3
+BAIX LLOBREGAT,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX LLOBREGAT,2022-03-02T00:00:00.000,No classificat,Positiu TAR,Dona,14
+BAIX LLOBREGAT,2022-03-08T00:00:00.000,No classificat,Positiu TAR,Dona,4
+BAIX LLOBREGAT,2022-03-12T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX LLOBREGAT,2022-03-13T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX LLOBREGAT,2022-06-29T00:00:00.000,No classificat,Positiu TAR,Dona,21
+BAIX LLOBREGAT,2022-07-02T00:00:00.000,No classificat,Positiu TAR,Dona,4
+BAIX LLOBREGAT,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Home,24
+BAIX LLOBREGAT,2022-07-05T00:00:00.000,No classificat,Positiu PCR,Dona,12
+BAIX LLOBREGAT,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Dona,6
+BAIX LLOBREGAT,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,8
+BAIX LLOBREGAT,2022-07-06T00:00:00.000,No classificat,Positiu PCR,Dona,3
+BAIX LLOBREGAT,2022-07-07T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX PENEDES,2020-03-29T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BAIX PENEDES,2020-06-02T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX PENEDES,2020-10-16T00:00:00.000,No classificat,Positiu PCR,Dona,4
+BAIX PENEDES,2020-11-30T00:00:00.000,No classificat,PCR probable,Home,1
+BAIX PENEDES,2021-01-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BAIX PENEDES,2021-05-03T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX PENEDES,2021-12-22T00:00:00.000,No classificat,Positiu PCR,Dona,2
+BAIX PENEDES,2021-12-24T00:00:00.000,No classificat,Positiu TAR,Home,2
+BAIX PENEDES,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Home,1
+BAIX PENEDES,2022-01-07T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BAIX PENEDES,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Dona,7
+BAIX PENEDES,2022-02-01T00:00:00.000,No classificat,Positiu TAR,Home,9
+BAIX PENEDES,2022-02-02T00:00:00.000,No classificat,Positiu PCR,Home,1
+BAIX PENEDES,2022-03-10T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BAIX PENEDES,2022-03-11T00:00:00.000,No classificat,Positiu PCR,Home,15
+BAIX PENEDES,2022-03-11T00:00:00.000,No classificat,Positiu TAR,Home,52
+BAIX PENEDES,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Dona,9
+BAIX PENEDES,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,3
+BARCELONES,2020-03-20T00:00:00.000,LES CORTS,Positiu per ELISA,Home,1
+BARCELONES,2020-04-03T00:00:00.000,EIXAMPLE,Positiu per ELISA,Home,5
+BARCELONES,2020-04-03T00:00:00.000,SANT MARTÍ,Positiu per ELISA,Dona,5
+BARCELONES,2020-04-08T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BARCELONES,2020-04-10T00:00:00.000,No classificat,Positiu PCR,Home,12
+BARCELONES,2020-04-15T00:00:00.000,SANT MARTÍ,PCR probable,Home,1
+BARCELONES,2020-04-15T00:00:00.000,SANT MARTÍ,Positiu per Test Ràpid,Dona,3
+BARCELONES,2020-04-16T00:00:00.000,HORTA-GUINARDÓ,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-04-20T00:00:00.000,SANT MARTÍ,Positiu per Test Ràpid,Dona,2
+BARCELONES,2020-04-24T00:00:00.000,NOU BARRIS,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-04-28T00:00:00.000,No classificat,Positiu per ELISA,Dona,5
+BARCELONES,2020-05-03T00:00:00.000,EIXAMPLE,Epidemiològic,Home,1
+BARCELONES,2020-05-06T00:00:00.000,HORTA-GUINARDÓ,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-05-08T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Dona,2
+BARCELONES,2020-05-18T00:00:00.000,EIXAMPLE,PCR probable,Dona,1
+BARCELONES,2020-05-19T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Home,2
+BARCELONES,2020-05-26T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BARCELONES,2020-06-04T00:00:00.000,SARRIÀ-SANT GERVASI,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-06-06T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-06-09T00:00:00.000,SANT ANDREU,Positiu per ELISA,Dona,1
+BARCELONES,2020-06-11T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BARCELONES,2020-06-15T00:00:00.000,LES CORTS,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-06-15T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BARCELONES,2020-06-29T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Dona,6
+BARCELONES,2020-06-29T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Home,5
+BARCELONES,2020-07-06T00:00:00.000,GRÀCIA,Positiu per ELISA,Dona,1
+BARCELONES,2020-07-06T00:00:00.000,SANTS-MONTJUÏC,Positiu per ELISA,Dona,1
+BARCELONES,2020-07-09T00:00:00.000,CIUTAT VELLA,Positiu per Test Ràpid,Dona,2
+BARCELONES,2020-07-15T00:00:00.000,GRÀCIA,PCR probable,Home,1
+BARCELONES,2020-07-16T00:00:00.000,NOU BARRIS,Positiu per Test Ràpid,Home,11
+BARCELONES,2020-07-16T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+BARCELONES,2020-07-17T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,12
+BARCELONES,2020-07-20T00:00:00.000,SANT MARTÍ,Positiu per Test Ràpid,Dona,6
+BARCELONES,2020-07-22T00:00:00.000,SANT ANDREU,PCR probable,Dona,1
+BARCELONES,2020-07-22T00:00:00.000,SANT ANDREU,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-07-23T00:00:00.000,LES CORTS,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-07-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+BARCELONES,2020-07-24T00:00:00.000,NOU BARRIS,Positiu per Test Ràpid,Dona,2
+BARCELONES,2020-07-25T00:00:00.000,NOU BARRIS,Positiu per ELISA,Home,1
+BARCELONES,2020-08-12T00:00:00.000,No classificat,Positiu per ELISA,Dona,7
+BARCELONES,2020-08-17T00:00:00.000,SANT ANDREU,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-08-20T00:00:00.000,EIXAMPLE,PCR probable,Home,1
+BARCELONES,2020-08-28T00:00:00.000,SARRIÀ-SANT GERVASI,PCR probable,Dona,1
+BARCELONES,2020-09-01T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-09-02T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Dona,2
+BARCELONES,2020-09-03T00:00:00.000,GRÀCIA,Positiu per Test Ràpid,Dona,6
+BARCELONES,2020-09-07T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+BARCELONES,2020-09-08T00:00:00.000,SANT ANDREU,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-09-14T00:00:00.000,LES CORTS,Positiu per Test Ràpid,Home,2
+BARCELONES,2020-09-14T00:00:00.000,NOU BARRIS,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-09-21T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BARCELONES,2020-09-23T00:00:00.000,SARRIÀ-SANT GERVASI,PCR probable,Home,1
+BARCELONES,2020-09-26T00:00:00.000,No classificat,Positiu PCR,Dona,4
+BARCELONES,2020-09-28T00:00:00.000,EIXAMPLE,Positiu PCR,Home,25
+BARCELONES,2020-09-29T00:00:00.000,LES CORTS,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-09-29T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Home,2
+BARCELONES,2020-10-01T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-10-06T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-10-08T00:00:00.000,LES CORTS,Positiu PCR,Dona,14
+BARCELONES,2020-10-08T00:00:00.000,SANT MARTÍ,Positiu per ELISA,Home,3
+BARCELONES,2020-10-08T00:00:00.000,SANTS-MONTJUÏC,PCR probable,Home,1
+BARCELONES,2020-10-10T00:00:00.000,HORTA-GUINARDÓ,Positiu per ELISA,Dona,4
+BARCELONES,2020-10-10T00:00:00.000,SANTS-MONTJUÏC,Positiu per ELISA,Dona,3
+BARCELONES,2020-10-13T00:00:00.000,CIUTAT VELLA,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-10-13T00:00:00.000,SARRIÀ-SANT GERVASI,Positiu PCR,Dona,31
+BARCELONES,2020-10-14T00:00:00.000,HORTA-GUINARDÓ,PCR probable,Dona,1
+BARCELONES,2020-10-19T00:00:00.000,No classificat,PCR probable,Home,4
+BARCELONES,2020-10-20T00:00:00.000,NOU BARRIS,Positiu PCR,Home,58
+BARCELONES,2020-10-28T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BARCELONES,2020-10-28T00:00:00.000,SANTS-MONTJUÏC,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-11-04T00:00:00.000,No classificat,PCR probable,Home,1
+BARCELONES,2020-11-10T00:00:00.000,SANT MARTÍ,Positiu PCR,Home,13
+BARCELONES,2020-11-16T00:00:00.000,NOU BARRIS,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-11-18T00:00:00.000,CIUTAT VELLA,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-11-19T00:00:00.000,SANT ANDREU,PCR probable,Dona,1
+BARCELONES,2020-11-23T00:00:00.000,No classificat,Positiu per ELISA,Dona,2
+BARCELONES,2020-12-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+BARCELONES,2020-12-13T00:00:00.000,LES CORTS,Positiu per ELISA,Dona,1
+BARCELONES,2020-12-13T00:00:00.000,SANT MARTÍ,Positiu per ELISA,Home,5
+BARCELONES,2020-12-15T00:00:00.000,LES CORTS,Positiu per Test Ràpid,Home,1
+BARCELONES,2020-12-21T00:00:00.000,No classificat,Positiu TAR,Home,25
+BARCELONES,2020-12-21T00:00:00.000,SANT ANDREU,Positiu TAR,Dona,24
+BARCELONES,2020-12-23T00:00:00.000,LES CORTS,Positiu TAR,Home,9
+BARCELONES,2021-01-08T00:00:00.000,SANTS-MONTJUÏC,Positiu per ELISA,Home,1
+BARCELONES,2021-01-11T00:00:00.000,EIXAMPLE,Positiu per Test Ràpid,Home,1
+BARCELONES,2021-01-19T00:00:00.000,No classificat,Positiu per ELISA,Home,2
+BARCELONES,2021-01-28T00:00:00.000,CIUTAT VELLA,Positiu per ELISA,Home,6
+BARCELONES,2021-02-02T00:00:00.000,EIXAMPLE,Positiu TAR,Home,16
+BARCELONES,2021-02-12T00:00:00.000,GRÀCIA,Positiu per Test Ràpid,Home,1
+BARCELONES,2021-02-20T00:00:00.000,HORTA-GUINARDÓ,Positiu TAR,Home,2
+BARCELONES,2021-02-24T00:00:00.000,NOU BARRIS,Positiu per ELISA,Home,2
+BARCELONES,2021-03-08T00:00:00.000,LES CORTS,Positiu PCR,Dona,2
+BARCELONES,2021-03-18T00:00:00.000,No classificat,Positiu PCR,Home,5
+BARCELONES,2021-04-01T00:00:00.000,EIXAMPLE,Positiu PCR,Home,16
+BARCELONES,2021-04-08T00:00:00.000,HORTA-GUINARDÓ,Positiu PCR,Home,12
+BARCELONES,2021-04-10T00:00:00.000,EIXAMPLE,Positiu PCR,Home,5
+BARCELONES,2021-04-13T00:00:00.000,No classificat,Positiu PCR,Dona,10
+BARCELONES,2021-04-15T00:00:00.000,SANTS-MONTJUÏC,Positiu TAR,Home,2
+BARCELONES,2021-04-16T00:00:00.000,LES CORTS,Positiu PCR,Dona,4
+BARCELONES,2021-04-20T00:00:00.000,SARRIÀ-SANT GERVASI,Positiu PCR,Dona,5
+BARCELONES,2021-04-24T00:00:00.000,SANTS-MONTJUÏC,Positiu TAR,Home,2
+BARCELONES,2021-05-01T00:00:00.000,SARRIÀ-SANT GERVASI,Positiu per ELISA,Home,1
+BARCELONES,2021-06-22T00:00:00.000,SANT ANDREU,Positiu PCR,Home,11
+BARCELONES,2021-06-23T00:00:00.000,No classificat,Positiu PCR,Dona,2
+BARCELONES,2021-06-28T00:00:00.000,CIUTAT VELLA,Positiu per ELISA,Home,2
+BARCELONES,2021-07-11T00:00:00.000,No classificat,Positiu TAR,Home,10
+BARCELONES,2021-07-23T00:00:00.000,NOU BARRIS,PCR probable,Dona,1
+BARCELONES,2021-07-26T00:00:00.000,No classificat,Positiu TAR,Dona,66
+BARCELONES,2021-07-26T00:00:00.000,SANT MARTÍ,Positiu TAR,Dona,84
+BARCELONES,2021-08-04T00:00:00.000,SANT MARTÍ,Positiu per ELISA,Dona,1
+BARCELONES,2021-08-31T00:00:00.000,No classificat,PCR probable,Home,1
+BARCELONES,2021-09-04T00:00:00.000,SARRIÀ-SANT GERVASI,Positiu TAR,Home,4
+BARCELONES,2021-10-08T00:00:00.000,LES CORTS,Positiu PCR,Dona,1
+BARCELONES,2021-10-14T00:00:00.000,SANTS-MONTJUÏC,Positiu TAR,Home,2
+BARCELONES,2021-10-18T00:00:00.000,CIUTAT VELLA,Positiu TAR,Home,2
+BARCELONES,2021-10-19T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BARCELONES,2021-10-19T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BARCELONES,2021-10-20T00:00:00.000,EIXAMPLE,Positiu PCR,Home,1
+BARCELONES,2021-11-09T00:00:00.000,HORTA-GUINARDÓ,Positiu PCR,Home,5
+BARCELONES,2021-11-19T00:00:00.000,LES CORTS,Positiu PCR,Dona,4
+BARCELONES,2021-12-24T00:00:00.000,EIXAMPLE,Positiu per Test Ràpid,Home,1
+BARCELONES,2022-01-11T00:00:00.000,HORTA-GUINARDÓ,Positiu TAR,Home,290
+BARCELONES,2022-01-15T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BARCELONES,2022-01-29T00:00:00.000,No classificat,Positiu PCR,Home,10
+BARCELONES,2022-02-02T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BARCELONES,2022-02-09T00:00:00.000,SANT ANDREU,Positiu TAR,Home,65
+BARCELONES,2022-02-15T00:00:00.000,NOU BARRIS,Positiu PCR,Dona,12
+BARCELONES,2022-03-12T00:00:00.000,No classificat,Positiu PCR,Home,12
+BARCELONES,2022-03-13T00:00:00.000,No classificat,Positiu PCR,Dona,1
+BARCELONES,2022-03-13T00:00:00.000,SANT ANDREU,Positiu PCR,Home,1
+BARCELONES,2022-04-21T00:00:00.000,EIXAMPLE,Positiu TAR,Home,32
+BARCELONES,2022-05-21T00:00:00.000,SANTS-MONTJUÏC,Positiu PCR,Dona,4
+BARCELONES,2022-06-12T00:00:00.000,No classificat,Positiu TAR,Home,4
+BARCELONES,2022-06-23T00:00:00.000,SARRIÀ-SANT GERVASI,Positiu PCR,Home,15
+BARCELONES,2022-07-02T00:00:00.000,No classificat,Positiu TAR,Home,8
+BARCELONES,2022-07-03T00:00:00.000,EIXAMPLE,Positiu PCR,Dona,7
+BARCELONES,2022-07-03T00:00:00.000,No classificat,Positiu TAR,Dona,13
+BARCELONES,2022-07-06T00:00:00.000,LES CORTS,Positiu PCR,Home,4
+BARCELONES,2022-07-06T00:00:00.000,LES CORTS,Positiu per ELISA,Home,1
+BARCELONES,2022-07-16T00:00:00.000,SANTS-MONTJUÏC,Positiu TAR,Dona,3
+BERGUEDA,2020-04-21T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BERGUEDA,2020-05-10T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BERGUEDA,2020-07-17T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,3
+BERGUEDA,2020-08-03T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BERGUEDA,2020-08-13T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BERGUEDA,2020-10-14T00:00:00.000,No classificat,PCR probable,Home,1
+BERGUEDA,2020-10-29T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+BERGUEDA,2020-11-13T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+BERGUEDA,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Dona,1
+BERGUEDA,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Home,1
+BERGUEDA,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Home,1
+BERGUEDA,2022-02-01T00:00:00.000,No classificat,Positiu TAR,Home,7
+BERGUEDA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+BERGUEDA,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Dona,3
+CERDANYA,2020-03-26T00:00:00.000,No classificat,PCR probable,Dona,2
+CERDANYA,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Dona,1
+CERDANYA,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Home,1
+CERDANYA,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,2
+CERDANYA,2022-02-01T00:00:00.000,No classificat,Positiu TAR,Dona,1
+CONCA DE BARBERA,2020-08-20T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+CONCA DE BARBERA,2021-06-28T00:00:00.000,No classificat,Positiu TAR,Home,7
+CONCA DE BARBERA,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Dona,1
+CONCA DE BARBERA,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Home,1
+CONCA DE BARBERA,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Home,1
+CONCA DE BARBERA,2022-03-10T00:00:00.000,No classificat,Positiu TAR,Home,1
+CONCA DE BARBERA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,1
+CONCA DE BARBERA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,2
+CONCA DE BARBERA,2022-06-25T00:00:00.000,No classificat,Positiu TAR,Home,2
+GARRAF,2020-05-12T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+GARRAF,2020-07-01T00:00:00.000,No classificat,PCR probable,Dona,1
+GARRAF,2020-08-06T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+GARRAF,2020-11-30T00:00:00.000,No classificat,Positiu TAR,Home,1
+GARRAF,2020-12-14T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+GARRAF,2020-12-17T00:00:00.000,No classificat,Positiu per ELISA,Home,2
+GARRAF,2020-12-31T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+GARRAF,2021-07-17T00:00:00.000,No classificat,Positiu TAR,Dona,3
+GARRAF,2022-07-04T00:00:00.000,No classificat,Positiu PCR,Dona,2
+GARRAF,2022-07-07T00:00:00.000,No classificat,Positiu TAR,Dona,4
+GARRIGUES,2020-07-05T00:00:00.000,No classificat,Epidemiològic,Home,1
+GARRIGUES,2021-09-11T00:00:00.000,No classificat,Positiu PCR,Home,1
+GARRIGUES,2022-01-15T00:00:00.000,No classificat,Positiu TAR,Home,1
+GARRIGUES,2022-01-24T00:00:00.000,No classificat,Positiu TAR,Home,2
+GARRIGUES,2022-01-31T00:00:00.000,No classificat,Positiu PCR,Dona,1
+GARRIGUES,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+GARROTXA,2020-05-07T00:00:00.000,No classificat,PCR probable,Dona,1
+GARROTXA,2020-05-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+GARROTXA,2021-01-13T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+GARROTXA,2021-04-22T00:00:00.000,No classificat,Positiu PCR,Dona,1
+GARROTXA,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Home,1
+GARROTXA,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Home,2
+GARROTXA,2022-01-31T00:00:00.000,No classificat,Positiu TAR,Home,4
+GARROTXA,2022-02-02T00:00:00.000,No classificat,Positiu PCR,Dona,1
+GIRONES,2020-04-28T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+GIRONES,2020-06-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+GIRONES,2020-07-02T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+GIRONES,2020-07-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+GIRONES,2020-07-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+GIRONES,2020-07-29T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+GIRONES,2020-08-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+GIRONES,2020-08-19T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,3
+GIRONES,2020-08-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+GIRONES,2020-08-27T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+GIRONES,2020-10-10T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+GIRONES,2020-11-30T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+GIRONES,2021-01-20T00:00:00.000,No classificat,Positiu TAR,Home,9
+GIRONES,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Home,1
+GIRONES,2021-06-21T00:00:00.000,No classificat,Positiu PCR,Dona,2
+GIRONES,2021-07-26T00:00:00.000,No classificat,Positiu TAR,Dona,12
+GIRONES,2021-10-18T00:00:00.000,No classificat,Positiu PCR,Dona,1
+GIRONES,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Dona,1
+GIRONES,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Home,1
+GIRONES,2022-01-13T00:00:00.000,No classificat,Positiu TAR,Dona,10
+GIRONES,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Dona,12
+GIRONES,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Home,2
+GIRONES,2022-01-18T00:00:00.000,No classificat,Positiu TAR,Dona,2
+GIRONES,2022-01-21T00:00:00.000,No classificat,Positiu PCR,Home,10
+GIRONES,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Dona,5
+GIRONES,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Dona,1
+GIRONES,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Home,1
+GIRONES,2022-03-13T00:00:00.000,No classificat,Positiu PCR,Home,1
+GIRONES,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+GIRONES,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Home,2
+GIRONES,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,1
+GIRONES,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Home,1
+MARESME,2020-03-29T00:00:00.000,No classificat,Epidemiològic,Dona,1
+MARESME,2020-04-09T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+MARESME,2020-04-22T00:00:00.000,No classificat,PCR probable,Home,1
+MARESME,2020-04-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+MARESME,2020-04-26T00:00:00.000,No classificat,PCR probable,Home,1
+MARESME,2020-04-29T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+MARESME,2020-05-04T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+MARESME,2020-05-12T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+MARESME,2020-05-14T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,11
+MARESME,2020-05-18T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+MARESME,2020-07-09T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+MARESME,2020-07-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+MARESME,2020-07-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+MARESME,2020-07-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+MARESME,2020-08-07T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+MARESME,2020-10-08T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+MARESME,2020-11-05T00:00:00.000,No classificat,Positiu per ELISA,Dona,9
+MARESME,2020-11-16T00:00:00.000,No classificat,PCR probable,Dona,1
+MARESME,2020-11-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+MARESME,2020-12-02T00:00:00.000,No classificat,Positiu PCR,Dona,1
+MARESME,2021-02-27T00:00:00.000,No classificat,Positiu per ELISA,Home,3
+MARESME,2021-03-27T00:00:00.000,No classificat,PCR probable,Home,1
+MARESME,2021-03-31T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+MARESME,2021-04-20T00:00:00.000,No classificat,Positiu PCR,Dona,1
+MARESME,2021-04-21T00:00:00.000,No classificat,Positiu TAR,Home,1
+MARESME,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Home,1
+MARESME,2021-06-26T00:00:00.000,No classificat,Positiu TAR,Dona,1
+MARESME,2021-06-28T00:00:00.000,No classificat,Positiu TAR,Dona,2
+MARESME,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Dona,7
+MARESME,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Home,61
+MARESME,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Dona,1
+MARESME,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,3
+MARESME,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+MARESME,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,2
+MARESME,2021-08-03T00:00:00.000,No classificat,Positiu PCR,Dona,1
+MARESME,2021-08-13T00:00:00.000,No classificat,PCR probable,Home,1
+MARESME,2021-12-21T00:00:00.000,No classificat,Positiu PCR,Home,1
+MARESME,2021-12-24T00:00:00.000,No classificat,Positiu PCR,Dona,1
+MARESME,2022-01-09T00:00:00.000,No classificat,Positiu TAR,Dona,44
+MARESME,2022-01-14T00:00:00.000,No classificat,PCR probable,Dona,1
+MARESME,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Dona,2
+MARESME,2022-03-04T00:00:00.000,No classificat,Positiu TAR,Home,3
+MARESME,2022-03-11T00:00:00.000,No classificat,Positiu PCR,Home,3
+MARESME,2022-03-11T00:00:00.000,No classificat,Positiu TAR,Dona,2
+MARESME,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+MARESME,2022-06-25T00:00:00.000,No classificat,Positiu TAR,Home,2
+MARESME,2022-07-05T00:00:00.000,No classificat,Positiu PCR,Dona,3
+MARESME,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Dona,5
+MARESME,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,52
+MARESME,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Home,13
+MARESME,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Dona,3
+MARESME,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Home,1
+MOIANÈS,2021-01-26T00:00:00.000,No classificat,PCR probable,Dona,1
+MOIANÈS,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+MOIANÈS,2021-08-02T00:00:00.000,No classificat,Positiu PCR,Home,1
+MOIANÈS,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Dona,1
+MONTSIA,2021-04-16T00:00:00.000,No classificat,Positiu PCR,Home,1
+MONTSIA,2021-12-23T00:00:00.000,No classificat,Positiu PCR,Dona,1
+MONTSIA,2022-03-12T00:00:00.000,No classificat,Positiu PCR,Dona,1
+MONTSIA,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Home,1
+MONTSIA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,1
+MONTSIA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,13
+MONTSIA,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Dona,3
+NOGUERA,2020-05-05T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+NOGUERA,2020-06-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+NOGUERA,2021-04-19T00:00:00.000,No classificat,Positiu PCR,Dona,1
+NOGUERA,2021-07-03T00:00:00.000,No classificat,Positiu TAR,Home,4
+NOGUERA,2022-01-31T00:00:00.000,No classificat,Positiu TAR,Home,1
+NOGUERA,2022-02-01T00:00:00.000,No classificat,Positiu TAR,Home,23
+NOGUERA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,1
+NOGUERA,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Dona,2
+NOGUERA,2022-07-09T00:00:00.000,No classificat,Positiu TAR,Dona,1
+OSONA,2020-03-25T00:00:00.000,No classificat,Epidemiològic,Home,1
+OSONA,2020-04-16T00:00:00.000,No classificat,Epidemiològic,Dona,1
+OSONA,2020-04-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+OSONA,2020-07-30T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,4
+OSONA,2020-08-03T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+OSONA,2020-08-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+OSONA,2020-12-12T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+OSONA,2021-01-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+OSONA,2021-04-19T00:00:00.000,No classificat,Positiu PCR,Home,2
+OSONA,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Dona,1
+OSONA,2021-04-21T00:00:00.000,No classificat,Positiu TAR,Home,1
+OSONA,2021-06-25T00:00:00.000,No classificat,Positiu PCR,Dona,1
+OSONA,2021-06-26T00:00:00.000,No classificat,Positiu PCR,Dona,14
+OSONA,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,11
+OSONA,2021-08-03T00:00:00.000,No classificat,Positiu TAR,Home,1
+OSONA,2021-10-18T00:00:00.000,No classificat,Positiu PCR,Home,1
+OSONA,2021-12-22T00:00:00.000,No classificat,Positiu PCR,Dona,3
+OSONA,2021-12-23T00:00:00.000,No classificat,Positiu PCR,Dona,4
+OSONA,2022-01-13T00:00:00.000,No classificat,Positiu PCR,Dona,1
+OSONA,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Dona,44
+OSONA,2022-01-15T00:00:00.000,No classificat,Positiu TAR,Home,1
+OSONA,2022-01-30T00:00:00.000,No classificat,Positiu TAR,Dona,4
+OSONA,2022-01-31T00:00:00.000,No classificat,Positiu TAR,Home,11
+OSONA,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Home,1
+OSONA,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Dona,1
+OSONA,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,1
+OSONA,2022-07-09T00:00:00.000,No classificat,Positiu TAR,Home,1
+PALLARS JUSSA,2020-07-10T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+PALLARS JUSSA,2021-01-08T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+PALLARS JUSSA,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+PALLARS JUSSA,2022-01-28T00:00:00.000,No classificat,Positiu PCR,Dona,2
+PALLARS JUSSA,2022-01-31T00:00:00.000,No classificat,Positiu PCR,Dona,1
+PLA D'URGELL,2020-11-07T00:00:00.000,No classificat,Positiu PCR,Dona,1
+PLA D'URGELL,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Home,1
+PLA D'URGELL,2021-08-03T00:00:00.000,No classificat,Positiu TAR,Dona,2
+PLA D'URGELL,2022-01-08T00:00:00.000,No classificat,Positiu TAR,Dona,2
+PLA D'URGELL,2022-01-09T00:00:00.000,No classificat,Positiu TAR,Dona,5
+PLA D'URGELL,2022-01-13T00:00:00.000,No classificat,Positiu PCR,Dona,1
+PLA D'URGELL,2022-01-31T00:00:00.000,No classificat,Positiu PCR,Dona,2
+PLA D'URGELL,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Dona,12
+PLA D'URGELL,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Home,2
+PLA D'URGELL,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,1
+PLA D'URGELL,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,11
+PLA D'URGELL,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Home,1
+PLA DE L'ESTANY,2020-04-30T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+PLA DE L'ESTANY,2020-07-15T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+PLA DE L'ESTANY,2020-08-10T00:00:00.000,No classificat,PCR probable,Dona,1
+PLA DE L'ESTANY,2020-10-26T00:00:00.000,No classificat,Positiu PCR,Dona,4
+PLA DE L'ESTANY,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Home,3
+PLA DE L'ESTANY,2021-08-01T00:00:00.000,No classificat,Positiu PCR,Dona,1
+PLA DE L'ESTANY,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Home,12
+PLA DE L'ESTANY,2022-01-15T00:00:00.000,No classificat,Positiu TAR,Home,1
+PLA DE L'ESTANY,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+PLA DE L'ESTANY,2022-06-17T00:00:00.000,No classificat,Positiu PCR,Dona,1
+PRIORAT,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,1
+PRIORAT,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Home,1
+PRIORAT,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Dona,3
+RIBERA D'EBRE,2020-06-14T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+RIBERA D'EBRE,2020-08-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+RIBERA D'EBRE,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Dona,3
+RIBERA D'EBRE,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Home,1
+RIBERA D'EBRE,2022-01-12T00:00:00.000,No classificat,Positiu TAR,Home,4
+RIBERA D'EBRE,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Dona,3
+RIBERA D'EBRE,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,2
+RIPOLLES,2020-12-18T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+RIPOLLES,2021-01-13T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+RIPOLLES,2021-10-19T00:00:00.000,No classificat,Positiu TAR,Dona,2
+RIPOLLES,2022-01-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+RIPOLLES,2022-01-14T00:00:00.000,No classificat,Positiu PCR,Home,3
+RIPOLLES,2022-01-21T00:00:00.000,No classificat,Positiu TAR,Dona,15
+RIPOLLES,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,3
+RIPOLLES,2022-07-01T00:00:00.000,No classificat,Positiu TAR,Dona,2
+SEGARRA,2020-05-07T00:00:00.000,No classificat,Epidemiològic,Dona,1
+SEGARRA,2020-05-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+SEGARRA,2020-05-27T00:00:00.000,No classificat,Positiu PCR,Home,1
+SEGARRA,2020-06-15T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,4
+SEGARRA,2020-12-03T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+SEGARRA,2021-02-10T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+SEGARRA,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Dona,1
+SEGARRA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+SEGARRA,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Dona,4
+SEGRIA,2020-04-27T00:00:00.000,No classificat,Epidemiològic,Dona,1
+SEGRIA,2020-05-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+SEGRIA,2020-06-02T00:00:00.000,No classificat,PCR probable,Home,1
+SEGRIA,2020-08-21T00:00:00.000,No classificat,Epidemiològic,Home,1
+SEGRIA,2020-09-02T00:00:00.000,No classificat,Positiu PCR,Home,8
+SEGRIA,2020-09-16T00:00:00.000,No classificat,Epidemiològic,Dona,1
+SEGRIA,2020-10-22T00:00:00.000,No classificat,Epidemiològic,Dona,1
+SEGRIA,2020-10-26T00:00:00.000,No classificat,Positiu TAR,Dona,1
+SEGRIA,2020-11-28T00:00:00.000,No classificat,Positiu per ELISA,Dona,2
+SEGRIA,2021-01-15T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+SEGRIA,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,1
+SEGRIA,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Dona,1
+SEGRIA,2021-12-21T00:00:00.000,No classificat,Positiu PCR,Dona,2
+SEGRIA,2021-12-22T00:00:00.000,No classificat,Positiu PCR,Dona,1
+SEGRIA,2021-12-24T00:00:00.000,No classificat,Positiu TAR,Dona,2
+SEGRIA,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Dona,4
+SEGRIA,2022-01-06T00:00:00.000,No classificat,Positiu PCR,Dona,1
+SEGRIA,2022-01-24T00:00:00.000,No classificat,Positiu TAR,Home,11
+SEGRIA,2022-02-01T00:00:00.000,No classificat,Positiu TAR,Home,3
+SEGRIA,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Dona,2
+SEGRIA,2022-02-02T00:00:00.000,No classificat,Positiu TAR,Home,2
+SEGRIA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,11
+SEGRIA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+SEGRIA,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Home,25
+SEGRIA,2022-07-09T00:00:00.000,No classificat,Positiu PCR,Home,4
+SEGRIA,2022-07-09T00:00:00.000,No classificat,Positiu TAR,Dona,1
+SELVA,2020-05-27T00:00:00.000,No classificat,PCR probable,Home,1
+SELVA,2020-06-05T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+SELVA,2020-06-08T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+SELVA,2020-07-28T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+SELVA,2020-08-18T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+SELVA,2021-01-02T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+SELVA,2021-01-11T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+SELVA,2021-01-19T00:00:00.000,No classificat,PCR probable,Dona,1
+SELVA,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,1
+SELVA,2021-07-27T00:00:00.000,No classificat,Positiu PCR,Home,1
+SELVA,2021-07-28T00:00:00.000,No classificat,Positiu PCR,Dona,3
+SELVA,2021-08-01T00:00:00.000,No classificat,Positiu PCR,Home,3
+SELVA,2021-08-01T00:00:00.000,No classificat,Positiu TAR,Home,3
+SELVA,2021-08-02T00:00:00.000,No classificat,Positiu PCR,Home,1
+SELVA,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Dona,1
+SELVA,2021-12-19T00:00:00.000,No classificat,Positiu PCR,Home,10
+SELVA,2021-12-21T00:00:00.000,No classificat,Positiu TAR,Dona,2
+SELVA,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Dona,1
+SELVA,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Home,3
+SELVA,2022-01-25T00:00:00.000,No classificat,Positiu TAR,Dona,9
+SELVA,2022-01-27T00:00:00.000,No classificat,Positiu PCR,Home,7
+SELVA,2022-01-31T00:00:00.000,No classificat,Positiu PCR,Dona,4
+SELVA,2022-01-31T00:00:00.000,No classificat,Positiu PCR,Home,2
+SELVA,2022-01-31T00:00:00.000,No classificat,Positiu TAR,Dona,4
+SELVA,2022-03-11T00:00:00.000,No classificat,Positiu PCR,Dona,1
+SELVA,2022-03-11T00:00:00.000,No classificat,Positiu TAR,Home,2
+SELVA,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Dona,5
+SELVA,2022-04-19T00:00:00.000,No classificat,Positiu TAR,Dona,4
+SELVA,2022-07-07T00:00:00.000,No classificat,Positiu PCR,Dona,1
+SELVA,2022-07-17T00:00:00.000,No classificat,Positiu TAR,Home,1
+SOLSONES,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Dona,1
+SOLSONES,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,1
+SOLSONES,2021-10-18T00:00:00.000,No classificat,Positiu PCR,Dona,3
+SOLSONES,2022-01-08T00:00:00.000,No classificat,Positiu TAR,Dona,2
+SOLSONES,2022-07-11T00:00:00.000,No classificat,Positiu TAR,Dona,1
+TARRAGONES,2020-05-01T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+TARRAGONES,2020-05-27T00:00:00.000,No classificat,PCR probable,Dona,1
+TARRAGONES,2020-07-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+TARRAGONES,2020-11-30T00:00:00.000,No classificat,PCR probable,Dona,1
+TARRAGONES,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Dona,2
+TARRAGONES,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,1
+TARRAGONES,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Home,1
+TARRAGONES,2021-12-09T00:00:00.000,No classificat,Positiu TAR,Dona,5
+TARRAGONES,2021-12-19T00:00:00.000,No classificat,Positiu PCR,Dona,3
+TARRAGONES,2021-12-20T00:00:00.000,No classificat,Positiu PCR,Dona,22
+TARRAGONES,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Dona,2
+TARRAGONES,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Home,3
+TARRAGONES,2022-01-14T00:00:00.000,No classificat,Positiu PCR,Home,1
+TARRAGONES,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Home,4
+TARRAGONES,2022-02-01T00:00:00.000,No classificat,Positiu PCR,Dona,1
+TARRAGONES,2022-03-04T00:00:00.000,No classificat,Positiu TAR,Home,5
+TARRAGONES,2022-03-11T00:00:00.000,No classificat,Positiu PCR,Dona,61
+TARRAGONES,2022-04-26T00:00:00.000,No classificat,Positiu TAR,Home,2
+TARRAGONES,2022-06-02T00:00:00.000,No classificat,Positiu TAR,Home,2
+TARRAGONES,2022-07-02T00:00:00.000,No classificat,Positiu PCR,Dona,1
+TARRAGONES,2022-07-10T00:00:00.000,No classificat,Positiu TAR,Dona,1
+TARRAGONES,2022-07-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+TERRA ALTA,2022-03-12T00:00:00.000,No classificat,Positiu TAR,Dona,1
+TERRA ALTA,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Home,1
+URGELL,2020-03-22T00:00:00.000,No classificat,Epidemiològic,Home,1
+URGELL,2020-04-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+URGELL,2020-09-16T00:00:00.000,No classificat,Epidemiològic,Dona,1
+URGELL,2020-09-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+URGELL,2020-10-17T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+URGELL,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Home,1
+URGELL,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Dona,1
+URGELL,2021-04-22T00:00:00.000,No classificat,Positiu TAR,Home,1
+URGELL,2021-12-25T00:00:00.000,No classificat,Positiu TAR,Dona,1
+URGELL,2022-01-14T00:00:00.000,No classificat,Positiu PCR,Dona,1
+URGELL,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Home,2
+URGELL,2022-01-17T00:00:00.000,No classificat,Positiu TAR,Home,54
+URGELL,2022-03-12T00:00:00.000,No classificat,Positiu PCR,Home,2
+URGELL,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Dona,4
+URGELL,2022-07-07T00:00:00.000,No classificat,Positiu TAR,Home,1
+VALL D'ARAN,2020-04-18T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALL D'ARAN,2020-04-23T00:00:00.000,No classificat,Positiu per ELISA,Home,21
+VALL D'ARAN,2020-04-27T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALL D'ARAN,2020-09-20T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-03-30T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES OCCIDENTAL,2020-04-03T00:00:00.000,No classificat,Epidemiològic,Home,2
+VALLES OCCIDENTAL,2020-04-07T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-04-08T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES OCCIDENTAL,2020-04-13T00:00:00.000,No classificat,Epidemiològic,Dona,1
+VALLES OCCIDENTAL,2020-04-24T00:00:00.000,No classificat,Positiu per ELISA,Dona,3
+VALLES OCCIDENTAL,2020-05-06T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES OCCIDENTAL,2020-05-13T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-05-20T00:00:00.000,No classificat,PCR probable,Dona,1
+VALLES OCCIDENTAL,2020-05-25T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-05-27T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES OCCIDENTAL,2020-05-27T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES OCCIDENTAL,2020-05-30T00:00:00.000,No classificat,PCR probable,Home,2
+VALLES OCCIDENTAL,2020-06-07T00:00:00.000,No classificat,PCR probable,Home,1
+VALLES OCCIDENTAL,2020-06-07T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-07-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+VALLES OCCIDENTAL,2020-07-23T00:00:00.000,No classificat,Positiu per ELISA,Dona,3
+VALLES OCCIDENTAL,2020-07-31T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES OCCIDENTAL,2020-08-04T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,3
+VALLES OCCIDENTAL,2020-08-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES OCCIDENTAL,2020-08-08T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-08-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES OCCIDENTAL,2020-08-11T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES OCCIDENTAL,2020-08-12T00:00:00.000,No classificat,PCR probable,Home,1
+VALLES OCCIDENTAL,2020-08-17T00:00:00.000,No classificat,PCR probable,Home,3
+VALLES OCCIDENTAL,2020-08-19T00:00:00.000,No classificat,PCR probable,Home,1
+VALLES OCCIDENTAL,2020-08-19T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-08-21T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,2
+VALLES OCCIDENTAL,2020-08-25T00:00:00.000,No classificat,PCR probable,Dona,1
+VALLES OCCIDENTAL,2020-08-26T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES OCCIDENTAL,2020-08-26T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES OCCIDENTAL,2020-08-27T00:00:00.000,No classificat,Epidemiològic,Dona,1
+VALLES OCCIDENTAL,2020-09-02T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,3
+VALLES OCCIDENTAL,2020-09-04T00:00:00.000,No classificat,PCR probable,Dona,1
+VALLES OCCIDENTAL,2020-09-09T00:00:00.000,No classificat,PCR probable,Home,1
+VALLES OCCIDENTAL,2020-09-15T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES OCCIDENTAL,2020-09-18T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES OCCIDENTAL,2020-09-26T00:00:00.000,No classificat,Positiu PCR,Home,1
+VALLES OCCIDENTAL,2020-10-09T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES OCCIDENTAL,2020-10-13T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES OCCIDENTAL,2020-10-14T00:00:00.000,No classificat,PCR probable,Dona,2
+VALLES OCCIDENTAL,2020-10-19T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES OCCIDENTAL,2020-10-23T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES OCCIDENTAL,2020-10-26T00:00:00.000,No classificat,Epidemiològic,Dona,1
+VALLES OCCIDENTAL,2020-10-26T00:00:00.000,No classificat,Positiu PCR,Dona,1
+VALLES OCCIDENTAL,2020-10-27T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-11-01T00:00:00.000,No classificat,Positiu per ELISA,Dona,4
+VALLES OCCIDENTAL,2020-11-04T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2020-11-05T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES OCCIDENTAL,2020-11-11T00:00:00.000,No classificat,Positiu TAR,Dona,16
+VALLES OCCIDENTAL,2020-11-19T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES OCCIDENTAL,2020-11-22T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES OCCIDENTAL,2020-12-01T00:00:00.000,No classificat,Positiu per ELISA,Home,2
+VALLES OCCIDENTAL,2020-12-09T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES OCCIDENTAL,2020-12-15T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2021-01-23T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES OCCIDENTAL,2021-02-09T00:00:00.000,No classificat,PCR probable,Dona,1
+VALLES OCCIDENTAL,2021-02-18T00:00:00.000,No classificat,Positiu PCR,Dona,4
+VALLES OCCIDENTAL,2021-04-01T00:00:00.000,No classificat,Positiu TAR,Home,1
+VALLES OCCIDENTAL,2021-04-04T00:00:00.000,No classificat,Positiu PCR,Home,5
+VALLES OCCIDENTAL,2021-04-13T00:00:00.000,No classificat,Positiu PCR,Dona,3
+VALLES OCCIDENTAL,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Dona,8
+VALLES OCCIDENTAL,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Home,8
+VALLES OCCIDENTAL,2021-06-16T00:00:00.000,No classificat,Positiu PCR,Dona,1
+VALLES OCCIDENTAL,2021-06-26T00:00:00.000,No classificat,Positiu TAR,Home,7
+VALLES OCCIDENTAL,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Home,172
+VALLES OCCIDENTAL,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,11
+VALLES OCCIDENTAL,2021-06-30T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES OCCIDENTAL,2021-07-12T00:00:00.000,No classificat,Positiu TAR,Dona,50
+VALLES OCCIDENTAL,2021-07-25T00:00:00.000,No classificat,Positiu TAR,Home,13
+VALLES OCCIDENTAL,2021-07-29T00:00:00.000,No classificat,Positiu PCR,Home,2
+VALLES OCCIDENTAL,2021-08-03T00:00:00.000,No classificat,Positiu PCR,Home,11
+VALLES OCCIDENTAL,2021-08-04T00:00:00.000,No classificat,Positiu TAR,Dona,11
+VALLES OCCIDENTAL,2021-09-28T00:00:00.000,No classificat,PCR probable,Dona,1
+VALLES OCCIDENTAL,2021-10-19T00:00:00.000,No classificat,Positiu TAR,Home,1
+VALLES OCCIDENTAL,2021-12-19T00:00:00.000,No classificat,Positiu TAR,Home,5
+VALLES OCCIDENTAL,2022-01-28T00:00:00.000,No classificat,Positiu TAR,Home,25
+VALLES OCCIDENTAL,2022-03-12T00:00:00.000,No classificat,Positiu PCR,Dona,11
+VALLES OCCIDENTAL,2022-03-12T00:00:00.000,No classificat,Positiu PCR,Home,1
+VALLES OCCIDENTAL,2022-06-11T00:00:00.000,No classificat,Positiu TAR,Home,10
+VALLES OCCIDENTAL,2022-06-28T00:00:00.000,No classificat,Positiu PCR,Home,1
+VALLES OCCIDENTAL,2022-07-01T00:00:00.000,No classificat,Positiu TAR,Home,1
+VALLES OCCIDENTAL,2022-07-02T00:00:00.000,No classificat,Positiu TAR,Home,7
+VALLES OCCIDENTAL,2022-07-04T00:00:00.000,No classificat,Positiu PCR,Dona,2
+VALLES OCCIDENTAL,2022-07-05T00:00:00.000,No classificat,Positiu PCR,Dona,1
+VALLES OCCIDENTAL,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Dona,1
+VALLES OCCIDENTAL,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Home,4
+VALLES OCCIDENTAL,2022-07-07T00:00:00.000,No classificat,Positiu PCR,Dona,1
+VALLES OCCIDENTAL,2022-07-07T00:00:00.000,No classificat,Positiu PCR,Home,1
+VALLES OCCIDENTAL,2022-07-08T00:00:00.000,No classificat,Positiu TAR,Home,1
+VALLES OCCIDENTAL,2022-07-09T00:00:00.000,No classificat,Positiu TAR,Dona,5
+VALLES OCCIDENTAL,2022-07-09T00:00:00.000,No classificat,Positiu TAR,Home,1
+VALLES OCCIDENTAL,2022-07-10T00:00:00.000,No classificat,Positiu TAR,Dona,3
+VALLES ORIENTAL,2020-03-15T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES ORIENTAL,2020-04-28T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES ORIENTAL,2020-05-05T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES ORIENTAL,2020-06-01T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,2
+VALLES ORIENTAL,2020-06-11T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES ORIENTAL,2020-07-09T00:00:00.000,No classificat,PCR probable,Dona,1
+VALLES ORIENTAL,2020-07-10T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,3
+VALLES ORIENTAL,2020-07-15T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES ORIENTAL,2020-07-20T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES ORIENTAL,2020-07-22T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES ORIENTAL,2020-07-22T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES ORIENTAL,2020-07-24T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,5
+VALLES ORIENTAL,2020-07-30T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES ORIENTAL,2020-07-30T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES ORIENTAL,2020-08-02T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES ORIENTAL,2020-08-14T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES ORIENTAL,2020-08-21T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES ORIENTAL,2020-09-03T00:00:00.000,No classificat,Positiu per Test Ràpid,Home,1
+VALLES ORIENTAL,2020-09-08T00:00:00.000,No classificat,Positiu PCR,Home,3
+VALLES ORIENTAL,2020-09-08T00:00:00.000,No classificat,Positiu per ELISA,Home,4
+VALLES ORIENTAL,2020-09-27T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES ORIENTAL,2020-10-19T00:00:00.000,No classificat,Positiu per ELISA,Dona,3
+VALLES ORIENTAL,2020-10-19T00:00:00.000,No classificat,Positiu per ELISA,Home,2
+VALLES ORIENTAL,2020-10-22T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES ORIENTAL,2020-11-05T00:00:00.000,No classificat,Epidemiològic,Home,1
+VALLES ORIENTAL,2020-11-06T00:00:00.000,No classificat,Epidemiològic,Dona,1
+VALLES ORIENTAL,2021-01-13T00:00:00.000,No classificat,Positiu per ELISA,Dona,3
+VALLES ORIENTAL,2021-02-23T00:00:00.000,No classificat,Positiu PCR,Home,4
+VALLES ORIENTAL,2021-04-21T00:00:00.000,No classificat,Positiu PCR,Dona,2
+VALLES ORIENTAL,2021-05-25T00:00:00.000,No classificat,Positiu PCR,Dona,1
+VALLES ORIENTAL,2021-06-03T00:00:00.000,No classificat,Positiu per ELISA,Home,1
+VALLES ORIENTAL,2021-06-21T00:00:00.000,No classificat,Positiu PCR,Home,1
+VALLES ORIENTAL,2021-06-28T00:00:00.000,No classificat,Positiu PCR,Dona,1
+VALLES ORIENTAL,2021-06-29T00:00:00.000,No classificat,Positiu PCR,Home,13
+VALLES ORIENTAL,2021-06-29T00:00:00.000,No classificat,Positiu TAR,Home,3
+VALLES ORIENTAL,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Dona,31
+VALLES ORIENTAL,2021-06-30T00:00:00.000,No classificat,Positiu TAR,Home,5
+VALLES ORIENTAL,2021-07-11T00:00:00.000,No classificat,Positiu TAR,Dona,1
+VALLES ORIENTAL,2021-08-02T00:00:00.000,No classificat,PCR probable,Home,1
+VALLES ORIENTAL,2021-08-02T00:00:00.000,No classificat,Positiu PCR,Home,1
+VALLES ORIENTAL,2021-08-04T00:00:00.000,No classificat,Positiu per ELISA,Dona,1
+VALLES ORIENTAL,2021-08-07T00:00:00.000,No classificat,Positiu TAR,Dona,2
+VALLES ORIENTAL,2021-10-17T00:00:00.000,No classificat,Positiu PCR,Dona,1
+VALLES ORIENTAL,2021-10-18T00:00:00.000,No classificat,Positiu PCR,Home,1
+VALLES ORIENTAL,2021-12-22T00:00:00.000,No classificat,Positiu PCR,Dona,4
+VALLES ORIENTAL,2022-01-11T00:00:00.000,No classificat,Positiu PCR,Home,2
+VALLES ORIENTAL,2022-01-11T00:00:00.000,No classificat,Positiu TAR,Dona,118
+VALLES ORIENTAL,2022-01-12T00:00:00.000,No classificat,Positiu PCR,Dona,4
+VALLES ORIENTAL,2022-01-14T00:00:00.000,No classificat,Positiu TAR,Dona,3
+VALLES ORIENTAL,2022-01-23T00:00:00.000,No classificat,Positiu TAR,Dona,18
+VALLES ORIENTAL,2022-01-27T00:00:00.000,No classificat,Positiu per Test Ràpid,Dona,1
+VALLES ORIENTAL,2022-03-02T00:00:00.000,No classificat,Positiu TAR,Dona,3
+VALLES ORIENTAL,2022-03-13T00:00:00.000,No classificat,Positiu TAR,Dona,121
+VALLES ORIENTAL,2022-03-17T00:00:00.000,No classificat,Positiu TAR,Dona,4
+VALLES ORIENTAL,2022-07-04T00:00:00.000,No classificat,Positiu PCR,Dona,2
+VALLES ORIENTAL,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Dona,4
+VALLES ORIENTAL,2022-07-04T00:00:00.000,No classificat,Positiu TAR,Home,23
+VALLES ORIENTAL,2022-07-05T00:00:00.000,No classificat,Positiu PCR,Dona,2
+VALLES ORIENTAL,2022-07-05T00:00:00.000,No classificat,Positiu TAR,Home,15
+VALLES ORIENTAL,2022-07-06T00:00:00.000,No classificat,Positiu PCR,Dona,2
+VALLES ORIENTAL,2022-07-06T00:00:00.000,No classificat,Positiu TAR,Dona,5
+VALLES ORIENTAL,2022-07-07T00:00:00.000,No classificat,Positiu TAR,Home,13
+VALLES ORIENTAL,2022-07-09T00:00:00.000,No classificat,Positiu PCR,Dona,3
+VALLES ORIENTAL,2022-07-11T00:00:00.000,No classificat,Positiu TAR,Dona,3
+VALLES ORIENTAL,2022-07-11T00:00:00.000,No classificat,Positiu TAR,Home,1
